@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://tanya22bose.github.io/csb-8djgo9/static/css/main.66f0588c.chunk.css",
+    "main.js": "https://tanya22bose.github.io/csb-8djgo9/static/js/main.99e46709.chunk.js",
+    "main.js.map": "https://tanya22bose.github.io/csb-8djgo9/static/js/main.99e46709.chunk.js.map",
+    "runtime-main.js": "https://tanya22bose.github.io/csb-8djgo9/static/js/runtime-main.8234fc8c.js",
+    "runtime-main.js.map": "https://tanya22bose.github.io/csb-8djgo9/static/js/runtime-main.8234fc8c.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://tanya22bose.github.io/csb-8djgo9/static/css/2.cbedb215.chunk.css",
+    "static/js/2.da2a31d4.chunk.js": "https://tanya22bose.github.io/csb-8djgo9/static/js/2.da2a31d4.chunk.js",
+    "static/js/2.da2a31d4.chunk.js.map": "https://tanya22bose.github.io/csb-8djgo9/static/js/2.da2a31d4.chunk.js.map",
+    "index.html": "https://tanya22bose.github.io/csb-8djgo9/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://tanya22bose.github.io/csb-8djgo9/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.66f0588c.chunk.css.map": "https://tanya22bose.github.io/csb-8djgo9/static/css/main.66f0588c.chunk.css.map",
+    "static/js/2.da2a31d4.chunk.js.LICENSE.txt": "https://tanya22bose.github.io/csb-8djgo9/static/js/2.da2a31d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8234fc8c.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.da2a31d4.chunk.js",
+    "static/css/main.66f0588c.chunk.css",
+    "static/js/main.99e46709.chunk.js"
+  ]
+}
